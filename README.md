@@ -1,6 +1,6 @@
 <img align="center" src="/shoe..jpg">
 <div align="center">
-# Hi there 👋
+Hi there 👋<br>
 😄 Pronouns: He/him or They/them<br>
 🔭 I’m currently working on <a href="http://urlx.uk.ms/">URLx</a><br>
 🌱 I’m currently learning Svelte<br>
