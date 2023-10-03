@@ -1,6 +1,5 @@
 <img align="center" src="/shoe..jpg">
 <div align="center">
-[![Ask Me Anything !](https://img.shields.io/badge/Ask%20me-anything-1abc9c.svg)](https://GitHub.com/Naereen/ama)<br>
 Hi there 👋<br>
 😄 Pronouns: He/him or They/them<br>
 🔭 I’m currently working on <a href="http://urlx.uk.ms/">URLx</a><br>
