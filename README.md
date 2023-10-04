@@ -1,6 +1,6 @@
 <img align="center" src="/shoe..jpg">
 <div align="center">
-<img src="https://tryhackme-badges.s3.amazonaws.com/jamesmarke7.png" alt="TryHackMe"><br>
+<a href="https://tryhackme.com/p/jamesmarke7"><img src="https://tryhackme-badges.s3.amazonaws.com/jamesmarke7.png" alt="TryHackMe"></a><br>
 Hi there 👋<br>
 😄 Pronouns: He/him or They/them<br>
 🔭 I’m currently working on <a href="http://urlx.uk.ms/">URLx</a><br>
