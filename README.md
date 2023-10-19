@@ -1,4 +1,4 @@
-<img align="center" src="/shoe..jpg">
+<img align="center" src="/g1gabyteDEV.png"><img align="center" src="/g1gabyteDEValt.png"><img align="center" src="/g1gabyteALT2.png"><img align="center" src="/g1gabyteALT3.png">
 <div align="center">
 <a href="https://tryhackme.com/p/jamesmarke7"><img src="https://tryhackme-badges.s3.amazonaws.com/jamesmarke7.png" alt="TryHackMe"></a><br>
 Hi there 👋<br>
